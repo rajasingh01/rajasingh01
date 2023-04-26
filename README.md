@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajasingh01
 - 👀 I’m interested in ... anything which can make me more knowledgeable.
-- 🌱 I’m currently learning ... kotlin
+- 🌱 I’m currently doing bug bounty
 - 💞️ I’m looking to collaborate on ... anything intresting
 - 📫 How to reach me ... nilkhant30@gamil.com
 
